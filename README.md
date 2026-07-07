@@ -1,2 +1,2 @@
-# jogo-matematica
-Desafio Matemático - 6º Ano
+# Jogo de Matemática
+Projeto simples em HTML, CSS e JavaScript.
